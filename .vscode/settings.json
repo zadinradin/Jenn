@@ -1,8 +1,0 @@
-{
-    "python.terminal.activateEnvironment": false,
-    "python.analysis.extraPaths": [
-        "c:\\Users\\upp\\.vscode\\extensions\\rcautomsolutions.automationview-0.14.9-win32-x64\\python\\Lib\\site-packages"
-    ],
-    "serverpulse.ai.optInShown": true,
-    "bevel.java": "c:\\Users\\upp\\.vscode\\extensions\\bevel-software.bevel-1.3.0\\backend\\jdk17.0.21_0\\bin\\java.exe"
-}
