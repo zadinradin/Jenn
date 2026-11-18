@@ -1,0 +1,53 @@
+{
+  "fileInfos" : [ {
+    "path" : "audio.py",
+    "modificationInfo" : {
+      "contentHash" : -2104786438,
+      "lastModified" : 1794985158000
+    },
+    "linesOfCode" : 97
+  }, {
+    "path" : "config.py",
+    "modificationInfo" : {
+      "contentHash" : 1502913393,
+      "lastModified" : 1794985150000
+    },
+    "linesOfCode" : 23
+  }, {
+    "path" : "entites.py",
+    "modificationInfo" : {
+      "contentHash" : -1821333076,
+      "lastModified" : 1794988376119
+    },
+    "linesOfCode" : 1
+  }, {
+    "path" : "jenn_dodge.py",
+    "modificationInfo" : {
+      "contentHash" : -1912895573,
+      "lastModified" : 1794985204000
+    },
+    "linesOfCode" : 153
+  }, {
+    "path" : "partie.py",
+    "modificationInfo" : {
+      "contentHash" : 1772597589,
+      "lastModified" : 1794985194000
+    },
+    "linesOfCode" : 133
+  }, {
+    "path" : "sauvegarde.py",
+    "modificationInfo" : {
+      "contentHash" : -1730652658,
+      "lastModified" : 1794985152000
+    },
+    "linesOfCode" : 33
+  }, {
+    "path" : "ui.py",
+    "modificationInfo" : {
+      "contentHash" : 1048985565,
+      "lastModified" : 1794985174000
+    },
+    "linesOfCode" : 212
+  } ],
+  "appVersion" : "1.3.0"
+}
