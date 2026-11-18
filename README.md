@@ -1,4 +1,24 @@
-# 🚀 Jenn Dodge
+## Structure du projet
+
+```
+Jenn/
+├── jenn_dodge.py   # point d'entrée et boucle principale
+├── config.py       # dimensions, couleurs, difficultés
+├── partie.py       # logique du jeu : score, vies, niveaux, collisions
+├── entites.py      # vaisseau, objets qui tombent, particules
+├── ui.py           # fenêtre, menus, boutons, affichage
+├── audio.py        # sons et musique (générés par le code)
+└── sauvegarde.py   # meilleur score
+```
+
+## Où modifier quoi ?
+
+| Je veux... | Fichier |
+|---|---|
+| Changer la difficulté ou les couleurs | `config.py` |
+| Ajouter un type d'objet ou de bonus | `entites.py` et `partie.py` |
+| Modifier les menus ou l'affichage | `ui.py` |
+| Changer les sons | `audio.py` |# 🚀 Jenn Dodge
 
 Un jeu d'arcade en Python (Pygame). Pilote ton vaisseau, attrape les objets **Py** jaunes et évite les **bugs** !
 
