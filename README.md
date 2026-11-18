@@ -53,3 +53,6 @@ classement en ligne, version Android.
 ## Licence
 
 MIT
+
+## contact
+Pour toute question ou idée: ouvre **issue** ou une **discussion** sur ce dépot
